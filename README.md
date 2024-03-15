@@ -4,6 +4,8 @@ Inventory Management System.
 
 Inventory management system for mobile phones and accessories
 
+Sample app https://nucleus-fe-wanwsqnouq-de.a.run.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # Quickstart
